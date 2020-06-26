@@ -7,7 +7,7 @@ This application is worked on in Visual Studio, so you would need visual studio 
 Or if you want, we have a direct download link to the exe file below. 
 
 OBS Status.exe installation link:
-Version 1001
+Version 1.0.0.1
 http://www.mediafire.com/file/d10oxulrwapsj7s/OBS_Status_Setup.rar/file
 
 
