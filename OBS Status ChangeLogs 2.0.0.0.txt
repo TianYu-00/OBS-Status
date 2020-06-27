@@ -1,0 +1,37 @@
+OBS Status ChangeLogs
+--------------------------------------------------------------
+2.0.0.0 \ 27/06/2020
+--------------------------------------------------------------
+#Changed OBS Status UI default opacity
+#Added left click movable drag function which allow user to drag the program around
+#Added right click to show form2(OBS Status Settings)
+#Added trackbar in form2 UI to be used as a opacity scale for form1 (OBS Status)
+#Added label1 on top of the trackbar to say what the trackbar does
+#Added label2 next to label1 to show the current dragging opacity.
+#Added combobox to be used to allow user to select the background color for form1.
+#Added label3 on top of the combobox to show user what the combobox does.
+#Added a little small label on the bottom right hand corner in form2 (not adding it in form1 because even i dont like random names to be added on the main form... i think adding it in settings form is enough for me 😊 )
+#Added form3 to be used as a custom msgbox for any errors. msgbox contains label1, button1 and button2.
+#Added startup find OBS application(only support 64 bit OBS), if not found then msgbox would popup letting user know that OBS is not detected. User would have 2 options(the 2 buttons ive made earlier). They either run OBS and then restart the OBS Status program or if they dont use OBS(or use 32bit OBS), they can just click on 'Not using OBS' to just run the program like normal.
+#Edited some of the UI's to make them look more clean and professional
+#Added a function where if you ran OBS and then run OBS Status then shut down OBS it would show up form3(Error form), this way you would know when OBS has shutdown unexpectedly.
+#Added top most for all forms (Make them stay on top of all other programs unless if the program is full screened, use boarderless mode if the game provides it, if they dont then download boarderless gaming (free program))
+https://github.com/Codeusa/Borderless-Gaming/releases
+
+
+
+
+--------------------------------------------------------------
+1.0.0.1 \ 26/06/2020
+--------------------------------------------------------------
+#Made the Program to always stay on top of other programs
+
+
+
+--------------------------------------------------------------
+1.0.0.0 \ 25/06/2020
+--------------------------------------------------------------
+#Started making the simple UI
+#Added label and picturebox into the UI for it to show when the user is recording and when he is not recording(idle).
+#Basic keylog to track when user presses the 'PageUp' or 'PageDown' Key
+#Change the image and label upon user clicking 1 of the 2 buttons.
