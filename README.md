@@ -8,6 +8,12 @@ Or if you want, we have a direct download link to the exe file below.
 
 OBS Status.exe installation link:
 
+Version 2.0.0.0
+http://www.mediafire.com/file/n3ilmewm1m11eat/OBS_Status_Setup_2.0.0.0.rar/file
+
+
+Previous Versions.
+
 Version 1.0.0.1
 http://www.mediafire.com/file/d10oxulrwapsj7s/OBS_Status_Setup.rar/file
 
