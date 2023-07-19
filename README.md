@@ -1,6 +1,6 @@
 # OBS-Status
 
-This file is made by @ImNiYeYe.
+This file is made by Me.
 This content is free to use and is open source, if you have paid for this software please request a refund or a chargeback from the seller.
 
 This application is worked on in Visual Studio, so you would need visual studio in order to open the file and publish it yourself.
